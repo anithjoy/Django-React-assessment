@@ -45,6 +45,7 @@ Make sure react is in your system
 
 ```bash
 #from root folder
+cd my-frontend
 npm start
 
 ```
