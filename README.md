@@ -21,6 +21,30 @@ This project is a simple website built with a React.js frontend and a Django bac
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-directory>
+git clone https://github.com/anithjoy/Django-React-assessment.git
+```
+
+### 2. setup backend
+
+Make sure you have django installed
+
+```bash
+cd mysite
+python manage.py runserver
+```
+
+For cross origin setup
+
+```bash
+pip install django-cors-headers
+```
+
+### 3. setup Frontend
+
+Make sure react is in your system
+
+```bash
+#from root folder
+npm start
+
 ```
