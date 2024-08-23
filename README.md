@@ -49,3 +49,5 @@ cd my-frontend
 npm start
 
 ```
+
+![Project Image](https://github.com/anithjoy/Django-React-assessment/blob/main/roulettech%20Assessment%20Aws%203%20tier%20architecture%20diagram%20.drawio.png)
